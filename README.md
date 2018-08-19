@@ -1,7 +1,4 @@
 # hello-world
 
-mynameis  
+my name is   
 piaoxi
-this ismy frist web
-iam sohappy
-thankyou
